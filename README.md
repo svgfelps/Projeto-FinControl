@@ -48,7 +48,3 @@ O FinControl foi desenvolvido para funcionar em múltiplas plataformas:
 Este projeto está sendo desenvolvido como parte prática de avaliação acadêmica em um curso de **Desenvolvimento de Aplicações Móveis**. O escopo foca na implementação de interfaces gráficas responsivas, fluxo de navegação intuitivo e gerenciamento eficiente de estado através do padrão Provider.
 
 ---
-
-## 📊 Composição do Projeto
-
-A estrutura do projeto conta com:
